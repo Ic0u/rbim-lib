@@ -43,7 +43,7 @@ local ESP_SETTINGS = {
     ShowSkeletons = false,
     ShowTracer = false,
     TracerColor = Color3.new(1, 1, 1), 
-    TracerThickness = 0.7,
+    TracerThickness = 1,
     SkeletonsColor = Color3.new(1, 1, 1),
     TracerPosition = "Bottom",
 }
