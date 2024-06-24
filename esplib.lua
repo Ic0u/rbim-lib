@@ -25,12 +25,12 @@ local bones = {
 
 --// Settings
 local ESP_SETTINGS = {
-    BoxOutlineColor = Color3.new(1, 1, 1),
+    BoxOutlineColor = Color3.new(0, 0, 0),
     BoxColor = Color3.new(1, 1, 1),
     NameColor = Color3.new(1, 1, 1),
-    HealthOutlineColor = Color3.new(1, 1, 1),
-    HealthHighColor = Color3.new(1, 1, 1),
-    HealthLowColor = Color3.new(1, 1, 1),
+    HealthOutlineColor = Color3.new(0, 0, 0),
+    HealthHighColor = Color3.new(0, 1, 0),
+    HealthLowColor = Color3.new(1, 0, 0),
     CharSize = Vector2.new(4, 6),
     Teamcheck = false,
     WallCheck = false,
@@ -43,7 +43,7 @@ local ESP_SETTINGS = {
     ShowSkeletons = false,
     ShowTracer = false,
     TracerColor = Color3.new(1, 1, 1), 
-    TracerThickness = 2,
+    TracerThickness = 0.7,
     SkeletonsColor = Color3.new(1, 1, 1),
     TracerPosition = "Bottom",
 }
