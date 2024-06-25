@@ -419,7 +419,7 @@ do -- Load items
 
     Check.Name = "Check"
     Check.Parent = Button
-    Check.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Check.BackgroundColor3 = Color3.fromRGB(225, 0, 85)
     Check.BackgroundTransparency = 1.000
     Check.Position = UDim2.new(0, 3, 0, 3)
     Check.Size = UDim2.new(1, -6, 1, -6)
