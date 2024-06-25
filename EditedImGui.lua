@@ -319,7 +319,7 @@ do -- Load items
 
     Tabs.Name = "Tabs"
     Tabs.Parent = Main
-    Tabs.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+    Tabs.BackgroundColor3 = Color3.fromRGB(61, 24, 38)
     Tabs.BorderSizePixel = 0
     Tabs.ClipsDescendants = true
     Tabs.Position = UDim2.new(0, 0, 1, 2)
