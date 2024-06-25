@@ -241,7 +241,7 @@ do -- Load items
     Frame.ZIndex = 4
 
     Frame_2.Parent = Frame
-    Frame_2.BackgroundColor3 = Color3.fromRGB(59, 59, 68)
+    Frame_2.BackgroundColor3 = Color3.fromRGB(30, 16, 20)
     Frame_2.BorderSizePixel = 0
     Frame_2.Position = UDim2.new(0, 0, 1, 0)
     Frame_2.Size = UDim2.new(1, 0, 0, 2)
@@ -338,7 +338,7 @@ do -- Load items
     UIListLayout_3.Padding = UDim.new(0, 15)
 
     Frame_4.Parent = Tabs
-    Frame_4.BackgroundColor3 = Color3.fromRGB(59, 59, 68)
+    Frame_4.BackgroundColor3 = Color3.fromRGB(30, 16, 20)
     Frame_4.BorderSizePixel = 0
     Frame_4.Position = UDim2.new(0, 0, 1, -2)
     Frame_4.Size = UDim2.new(1, 0, 0, 2)
@@ -450,7 +450,7 @@ do -- Load items
     Outer.BackgroundTransparency = 1.000
     Outer.Size = UDim2.new(0, 150, 1, 0)
     Outer.Image = "rbxassetid://3570695787"
-    Outer.ImageColor3 = Color3.fromRGB(59, 59, 68)
+    Outer.ImageColor3 = Color3.fromRGB(30, 16, 20)
     Outer.ScaleType = Enum.ScaleType.Slice
     Outer.SliceCenter = Rect.new(100, 100, 100, 100)
     Outer.SliceScale = 0.050
@@ -731,7 +731,7 @@ do -- Load items
     Frame_6.ZIndex = 4
 
     Frame_7.Parent = Frame_6
-    Frame_7.BackgroundColor3 = Color3.fromRGB(59, 59, 68)
+    Frame_7.BackgroundColor3 = Color3.fromRGB(30, 16, 20)
     Frame_7.BorderSizePixel = 0
     Frame_7.Position = UDim2.new(0, 0, 1, 0)
     Frame_7.Size = UDim2.new(1, 0, 0, 2)
@@ -818,7 +818,7 @@ do -- Load items
     Outer_2.BackgroundTransparency = 1.000
     Outer_2.Size = UDim2.new(1, 0, 1, 0)
     Outer_2.Image = "rbxassetid://3570695787"
-    Outer_2.ImageColor3 = Color3.fromRGB(59, 59, 68)
+    Outer_2.ImageColor3 = Color3.fromRGB(30, 16, 20)
     Outer_2.ScaleType = Enum.ScaleType.Slice
     Outer_2.SliceCenter = Rect.new(100, 100, 100, 100)
     Outer_2.SliceScale = 0.050
@@ -903,7 +903,7 @@ do -- Load items
     Frame_8.ZIndex = 4
 
     Frame_9.Parent = Frame_8
-    Frame_9.BackgroundColor3 = Color3.fromRGB(59, 59, 68)
+    Frame_9.BackgroundColor3 = Color3.fromRGB(30, 16, 20)
     Frame_9.BorderSizePixel = 0
     Frame_9.Position = UDim2.new(0, 0, 1, 0)
     Frame_9.Size = UDim2.new(1, 0, 0, 2)
@@ -1058,7 +1058,7 @@ do -- Load items
     Outer_3.BackgroundTransparency = 1.000
     Outer_3.Size = UDim2.new(1, 0, 1, 0)
     Outer_3.Image = "rbxassetid://3570695787"
-    Outer_3.ImageColor3 = Color3.fromRGB(59, 59, 68)
+    Outer_3.ImageColor3 = Color3.fromRGB(30, 16, 20)
     Outer_3.ScaleType = Enum.ScaleType.Slice
     Outer_3.SliceCenter = Rect.new(100, 100, 100, 100)
     Outer_3.SliceScale = 0.050
